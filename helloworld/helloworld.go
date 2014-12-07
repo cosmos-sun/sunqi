@@ -23,4 +23,5 @@ func hello(w http.ResponseWriter, req *http.Request) {
 	log.Printf("%s %s\n", req.Proto, req.URL)
 	fmt.Fprintln(w, "Welcome to Deis!")
 	fmt.Fprintln(w, "See the documentation at http://docs.deis.io/ for more information.")
+	fmt.Fprintln(w, "Cosmos Sun mail_to:cosmos@happylatte.com")
 }
