@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER OpDemand <info@opdemand.com>
+MAINTAINER Cosmos Sun <sunqi0928@gmail.com>
 
 # install curl
 RUN apt-get update && apt-get install -qy curl
