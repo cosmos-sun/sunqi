@@ -1,2 +1,2 @@
-# Deis Hello World Application
+# Go Hello World Application
 #Cosmos Sun
